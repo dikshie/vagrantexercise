@@ -10,7 +10,7 @@
 /bin/sh setprompt.sh
 
 #set motd
-/bin/sh/disablemotdssh.sh 
+/bin/sh disablemotdssh.sh 
 
 #disable selinux
 /bin/sh disableselinux.sh 
